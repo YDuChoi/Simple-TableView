@@ -12,6 +12,11 @@
 		245F86E7209ADA2200271A15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 245F86E5209ADA2200271A15 /* Main.storyboard */; };
 		245F86E9209ADA2200271A15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 245F86E8209ADA2200271A15 /* Assets.xcassets */; };
 		245F86EC209ADA2200271A15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 245F86EA209ADA2200271A15 /* LaunchScreen.storyboard */; };
+		245F8702209AEA9A00271A15 /* Cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 245F86FD209AEA9900271A15 /* Cat.png */; };
+		245F8703209AEA9A00271A15 /* Lion.png in Resources */ = {isa = PBXBuildFile; fileRef = 245F86FE209AEA9900271A15 /* Lion.png */; };
+		245F8704209AEA9A00271A15 /* Monkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 245F86FF209AEA9900271A15 /* Monkey.png */; };
+		245F8705209AEA9A00271A15 /* Cow.png in Resources */ = {isa = PBXBuildFile; fileRef = 245F8700209AEA9A00271A15 /* Cow.png */; };
+		245F8706209AEA9A00271A15 /* Tiger.png in Resources */ = {isa = PBXBuildFile; fileRef = 245F8701209AEA9A00271A15 /* Tiger.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		245F86E8209ADA2200271A15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		245F86EB209ADA2200271A15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		245F86ED209ADA2200271A15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		245F86FD209AEA9900271A15 /* Cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cat.png; sourceTree = "<group>"; };
+		245F86FE209AEA9900271A15 /* Lion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lion.png; sourceTree = "<group>"; };
+		245F86FF209AEA9900271A15 /* Monkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Monkey.png; sourceTree = "<group>"; };
+		245F8700209AEA9A00271A15 /* Cow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cow.png; sourceTree = "<group>"; };
+		245F8701209AEA9A00271A15 /* Tiger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tiger.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +64,11 @@
 		245F86E0209ADA2200271A15 /* Simple TableView03 */ = {
 			isa = PBXGroup;
 			children = (
+				245F86FD209AEA9900271A15 /* Cat.png */,
+				245F8700209AEA9A00271A15 /* Cow.png */,
+				245F86FE209AEA9900271A15 /* Lion.png */,
+				245F86FF209AEA9900271A15 /* Monkey.png */,
+				245F8701209AEA9A00271A15 /* Tiger.png */,
 				245F86E1209ADA2200271A15 /* AppDelegate.swift */,
 				245F86E3209ADA2200271A15 /* ViewController.swift */,
 				245F86E5209ADA2200271A15 /* Main.storyboard */,
@@ -123,9 +138,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				245F8704209AEA9A00271A15 /* Monkey.png in Resources */,
 				245F86EC209ADA2200271A15 /* LaunchScreen.storyboard in Resources */,
 				245F86E9209ADA2200271A15 /* Assets.xcassets in Resources */,
+				245F8703209AEA9A00271A15 /* Lion.png in Resources */,
+				245F8705209AEA9A00271A15 /* Cow.png in Resources */,
+				245F8702209AEA9A00271A15 /* Cat.png in Resources */,
 				245F86E7209ADA2200271A15 /* Main.storyboard in Resources */,
+				245F8706209AEA9A00271A15 /* Tiger.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
